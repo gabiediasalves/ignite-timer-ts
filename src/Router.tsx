@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import { Home } from './pages/Home/Index.tsx'
-import { History } from './pages/History'
+import { History } from './pages/History/Index.tsx'
 import { DefaltLayout } from './layouts/DefaltLayout'
 
 export function Router() {
